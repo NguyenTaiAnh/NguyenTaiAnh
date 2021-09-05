@@ -1,16 +1,28 @@
-### Hi there 👋
+<pre>
+----------------------------------------
+<span>Anh.NT, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
-<!--
-**NguyenTaiAnh/NguyenTaiAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/), [VueJS](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/),... and PHP frameworks like [Laravel](https://laravel.com/), [Yii](https://www.yiiframework.com/),... . Also, I am learning [Python](https://www.python.org/), Math so I can work with [Machine Learning], etc...
+**Programming Is My Life** 👋
 
-Here are some ideas to get you started:
+<!-- ### Check out my social medias: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 💬 [Facebook](https://www.facebook.com/shjnoke/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anh-nguyen-5172001b8/) -->
+
+<!-- ![anh.nt github stats](https://github-readme-stats.vercel.app/api?username=NguyenTaiAnh&theme=merko&show_icons=true) -->
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTaiAnh&layout=compact&hide=html" alt="NguyenTaiAnh" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=NguyenTaiAnh&show_icons=true" alt="NguyenTaiAnh" /></div>
+
+<!-- ### and just a funny gif...😛
+![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) -->
