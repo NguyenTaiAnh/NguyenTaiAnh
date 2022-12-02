@@ -14,7 +14,7 @@
 
 </pre>
 
-I am a frontend developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/), [VueJS](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/), [Angular](https://angular.io/)... and PHP frameworks like [Laravel](https://laravel.com/), [Yii](https://www.yiiframework.com/),... . I can use and work with [Ionic](https://ionicframework.com/) to create great applications. Also, I am learning [Python](https://www.python.org/), Math so I can work with [Machine Learning], etc...
+I am a fullstack developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/), [VueJS](https://vuejs.org/), [React Native](https://reactnative.dev/), [NodeJS](https://expressjs.com/), [Angular](https://angular.io/)... and PHP frameworks like [Laravel](https://laravel.com/), [Yii](https://www.yiiframework.com/),... . I can use and work with [Ionic](https://ionicframework.com/) to create great applications. Beside, I am learning [Python](https://www.python.org/), Math so I can work with [Machine Learning], etc...
 **Programming Is My Life** 👋
 
 <!-- ### Check out my social medias: -->
